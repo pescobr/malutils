@@ -1,7 +1,5 @@
 {
   "name": "useful-utils",
   "version": "1.0.0",
-  "scripts": {
-    "install": "node tools/post-data.js" 
-  }
+  "scripts": {}
 }
